@@ -1,0 +1,106 @@
+[
+  {
+    "ContainingType": "MapApp.Api.Controllers.ObjectsController",
+    "Method": "Get",
+    "RelativePath": "api/objects",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MapApp.Api.Controllers.ObjectsController",
+    "Method": "Save",
+    "RelativePath": "api/objects",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "lstObjects",
+        "Type": "System.Collections.Generic.List\u00601[[MapApp.Api.Models.MapObject, MapApp.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MapApp.Api.Controllers.ObjectsController",
+    "Method": "DeleteAllObject",
+    "RelativePath": "api/objects",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MapApp.Api.Controllers.ObjectsController",
+    "Method": "DeleteObject",
+    "RelativePath": "api/objects/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MapApp.Api.Controllers.PolygonsController",
+    "Method": "Get",
+    "RelativePath": "api/polygons",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MapApp.Api.Controllers.PolygonsController",
+    "Method": "AddPolygons",
+    "RelativePath": "api/polygons",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "lstPolygons",
+        "Type": "System.Collections.Generic.List\u00601[[MapApp.Api.Models.Polygon, MapApp.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MapApp.Api.Controllers.PolygonsController",
+    "Method": "DeleteAllPolygons",
+    "RelativePath": "api/polygons",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MapApp.Api.Controllers.PolygonsController",
+    "Method": "DeletePolygon",
+    "RelativePath": "api/polygons/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\algop\\Desktop\\MapApp\\MapApp.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DECB6626-215A-4600-983A-D784496036A5}|MapApp.Api.csproj|c:\\users\\algop\\desktop\\mapapp\\mapapp.api\\models\\mapobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECB6626-215A-4600-983A-D784496036A5}|MapApp.Api.csproj|solutionrelative:models\\mapobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECB6626-215A-4600-983A-D784496036A5}|MapApp.Api.csproj|c:\\users\\algop\\desktop\\mapapp\\mapapp.api\\controllers\\polygonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECB6626-215A-4600-983A-D784496036A5}|MapApp.Api.csproj|solutionrelative:controllers\\polygonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECB6626-215A-4600-983A-D784496036A5}|MapApp.Api.csproj|c:\\users\\algop\\desktop\\mapapp\\mapapp.api\\controllers\\objectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECB6626-215A-4600-983A-D784496036A5}|MapApp.Api.csproj|solutionrelative:controllers\\objectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECB6626-215A-4600-983A-D784496036A5}|MapApp.Api.csproj|c:\\users\\algop\\desktop\\mapapp\\mapapp.api\\services\\jsonmapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECB6626-215A-4600-983A-D784496036A5}|MapApp.Api.csproj|solutionrelative:services\\jsonmapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECB6626-215A-4600-983A-D784496036A5}|MapApp.Api.csproj|c:\\users\\algop\\desktop\\mapapp\\mapapp.api\\data\\mapdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DECB6626-215A-4600-983A-D784496036A5}|MapApp.Api.csproj|solutionrelative:data\\mapdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECB6626-215A-4600-983A-D784496036A5}|MapApp.Api.csproj|c:\\users\\algop\\desktop\\mapapp\\mapapp.api\\models\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECB6626-215A-4600-983A-D784496036A5}|MapApp.Api.csproj|solutionrelative:models\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECB6626-215A-4600-983A-D784496036A5}|MapApp.Api.csproj|c:\\users\\algop\\desktop\\mapapp\\mapapp.api\\models\\mapdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECB6626-215A-4600-983A-D784496036A5}|MapApp.Api.csproj|solutionrelative:models\\mapdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECB6626-215A-4600-983A-D784496036A5}|MapApp.Api.csproj|c:\\users\\algop\\desktop\\mapapp\\mapapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECB6626-215A-4600-983A-D784496036A5}|MapApp.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 635,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MapData.json",
+              "DocumentMoniker": "C:\\Users\\algop\\Desktop\\MapApp\\MapApp.Api\\Data\\MapData.json",
+              "RelativeDocumentMoniker": "Data\\MapData.json",
+              "ToolTip": "C:\\Users\\algop\\Desktop\\MapApp\\MapApp.Api\\Data\\MapData.json",
+              "RelativeToolTip": "Data\\MapData.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAC0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-14T22:04:38.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JsonMapService.cs",
+              "DocumentMoniker": "C:\\Users\\algop\\Desktop\\MapApp\\MapApp.Api\\Services\\JsonMapService.cs",
+              "RelativeDocumentMoniker": "Services\\JsonMapService.cs",
+              "ToolTip": "C:\\Users\\algop\\Desktop\\MapApp\\MapApp.Api\\Services\\JsonMapService.cs",
+              "RelativeToolTip": "Services\\JsonMapService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwFgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T18:39:37.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PolygonsController.cs",
+              "DocumentMoniker": "C:\\Users\\algop\\Desktop\\MapApp\\MapApp.Api\\Controllers\\PolygonsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PolygonsController.cs",
+              "ToolTip": "C:\\Users\\algop\\Desktop\\MapApp\\MapApp.Api\\Controllers\\PolygonsController.cs",
+              "RelativeToolTip": "Controllers\\PolygonsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwDYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T18:21:18.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\algop\\Desktop\\MapApp\\MapApp.Api\\Controllers\\ObjectsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ObjectsController.cs",
+              "ToolTip": "C:\\Users\\algop\\Desktop\\MapApp\\MapApp.Api\\Controllers\\ObjectsController.cs",
+              "RelativeToolTip": "Controllers\\ObjectsController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwC8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T18:21:38.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 489,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2090367263:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2090367264:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 192,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 247,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\algop\\Desktop\\MapApp\\MapApp.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\algop\\Desktop\\MapApp\\MapApp.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T18:31:38.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Polygon.cs",
+              "DocumentMoniker": "C:\\Users\\algop\\Desktop\\MapApp\\MapApp.Api\\Models\\Polygon.cs",
+              "RelativeDocumentMoniker": "Models\\Polygon.cs",
+              "ToolTip": "C:\\Users\\algop\\Desktop\\MapApp\\MapApp.Api\\Models\\Polygon.cs",
+              "RelativeToolTip": "Models\\Polygon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T18:22:08.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MapObject.cs",
+              "DocumentMoniker": "C:\\Users\\algop\\Desktop\\MapApp\\MapApp.Api\\Models\\MapObject.cs",
+              "RelativeDocumentMoniker": "Models\\MapObject.cs",
+              "ToolTip": "C:\\Users\\algop\\Desktop\\MapApp\\MapApp.Api\\Models\\MapObject.cs",
+              "RelativeToolTip": "Models\\MapObject.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T18:22:01.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MapData.cs",
+              "DocumentMoniker": "C:\\Users\\algop\\Desktop\\MapApp\\MapApp.Api\\Models\\MapData.cs",
+              "RelativeDocumentMoniker": "Models\\MapData.cs",
+              "ToolTip": "C:\\Users\\algop\\Desktop\\MapApp\\MapApp.Api\\Models\\MapData.cs",
+              "RelativeToolTip": "Models\\MapData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T18:21:53.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 236,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{90243340-bd7a-11d0-93ef-00a0c90f2734}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0504ff91-9d61-11d0-a794-00a0c9110051}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

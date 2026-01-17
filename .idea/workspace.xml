@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="186cfd3b-3bc0-416c-a273-1303a9b764c2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MapClient/src/Components/MapApp.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MapClient/src/Components/MapTypes.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MapClient/src/Components/MapView.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MapClient/src/Components/ObjectsPanel.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MapClient/src/Components/PolygonPanel.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MapClient/src/Models/ObjectModel.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MapClient/src/Models/PolygonModel.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MapClient/src/Services/objectApi.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MapClient/src/Services/polygonApi.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MapClient/src/Styles/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MapClient/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/MapClient/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MapClient/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/MapClient/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MapClient/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/MapClient/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MapClient/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/MapClient/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MapClient/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/MapClient/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MapClient" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="38OgJkbOnYxcaFDk9Joz65sd8Vv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/algop/Desktop/mapProject -End/MapClient",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="186cfd3b-3bc0-416c-a273-1303a9b764c2" name="Changes" comment="" />
+      <created>1768675962528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768675962528</updated>
+      <workItem from="1768675963435" duration="18000" />
+      <workItem from="1768676434125" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
